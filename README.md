@@ -6,8 +6,8 @@
 </head>
 
 <body>
-    <h1 class="Heading"><center>Hey Coders! I'm Baljinder Singh<center></h1>
-    <h2 class="Bio"><center>I sling code and bring ideas to life.<center></h2>
+    <h1 class="Heading"><center>Hey Coders! I'm Baljinder Singh</center></h1>
+    <h2 class="Bio"><center>I sling code and bring ideas to life.</center></h2>
     <h3 class="descriptionHeading"><strong>About Me</strong></h3>
     <div class="description">
         <ul>
