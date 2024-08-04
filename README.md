@@ -43,5 +43,7 @@
  <a href="https://twitter.com/ivinayakg"><img src="https://img.shields.io/badge/Twitter-1672EC?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"  align="left"/></a>
 <a href="https://linkedin.com/in/ivinayakg"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
 </p>
+
+<img id="preview" src="https://komarev.com/ghpvc/?username=baljindersingh0807&color=grey">
 </body>
 </html>
