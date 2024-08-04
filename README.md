@@ -5,14 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<style>
- .Heading {
-     font-size: 25px;
-     
- }
-</style>
-
-<body style="background-color: yellow;">
+<body>
     <h1 class="Heading"><center>Hey Coders! I'm Baljinder Singh<center></h1>
     <h2 class="Bio"><center>I sling code and bring ideas to life.<center></h2>
     <h3 class="descriptionHeading"><strong>About Me</strong></h3>
