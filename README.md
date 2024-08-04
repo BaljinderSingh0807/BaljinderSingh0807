@@ -14,7 +14,7 @@
   <li>💼 I’m currently working at <strong>Deloitte</strong></li>
   <li>📚 I’m currently learning <strong>Web2 + Web3 Development</strong></li>
   <li>💬 Ask me anything about <strong>MERN & Blockchain Development</strong></li>
-  <li>🌐 Here's my portfolio: <strong><a href="https://baljider-singh-portfolio.vercel.app">Click Here</a></strong></li>
+  <li>🌐 Here's my portfolio: <strong><a href="https://baljinder-singh-portfolio.vercel.app">Click Here</a></strong></li>
 </ul>
     </div>
     <h2>Skills</h2>
@@ -31,11 +31,11 @@
     
 <h2>Stats</h2>    
 
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=baljindersingh0807&show_icons=true&theme=radical)
+![Baljinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=baljindersingh0807&show_icons=true&theme=radical)
 
 <h2>Languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljindersingh0807&layout=compact&theme=github_dark)](https://github.com/ivinayakg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljindersingh0807&layout=compact&theme=github_dark)](https://github.com/baljindersingh0807/github-readme-stats)
 
  <h2>Connect with me:</h2>
  <p>
