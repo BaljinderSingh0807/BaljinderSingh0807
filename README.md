@@ -37,6 +37,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baljindersingh0807&layout=compact&theme=github_dark)](https://github.com/baljindersingh0807/github-readme-stats)
 
+<h2>Streak</h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
  <h2>Connect with me:</h2>
  <p>
  <a href="mailto:vinayak20029@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
