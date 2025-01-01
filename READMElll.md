@@ -42,7 +42,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
- <h2>Connect with me:</h2>
+ <h2>Connect With Me:</h2>
  <p>
  <a href="mailto:baljinder08072003@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
  <a href="https://twitter.com/baljinder0807"><img src="https://img.shields.io/badge/Twitter-1672EC?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"  align="left"/></a>
